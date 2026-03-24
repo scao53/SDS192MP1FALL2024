@@ -1,0 +1,94 @@
+---
+title: "SDS192 Mini-Project 1"
+author: Section WRITE YOUR SECTION NUMBER HERE - WRITE GROUP LEADER NAME HERE | WRITE PARTNER NAME HERE
+output:
+  html_document:
+    toc: no
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+# Do not edit this chunk unless you know what you are doing
+knitr::opts_chunk$set(
+  echo = TRUE, message = FALSE, fig.width = 16/2, fig.height = 9/2
+  )
+```
+
+```{r, echo=FALSE}
+# Load all packages here
+library(tidyverse)
+```
+
+```{r, echo=FALSE}
+# Import the data here:
+travel <- read_csv("data/travel.csv")
+```
+
+# Q1: Peer Evaluation Google Form
+
+Fill out the peer evaluation Google form to receive credit.
+
+
+
+# Q2: Introduction
+
+Write no more than 100 words here introducing the dataset and the question(s) motivating your analysis. ^[Here is an example footnote to be used as a citation.]
+
+
+
+# Q3: Data Visualization
+
+## Data Visualization 1
+
+```{r}
+# Write your code to create data visualization #1 here:
+
+```
+
+Replace this text with your written analysis of data visualization #1 (no more than 150 words).
+
+
+
+## Data visualization 2
+
+```{r}
+# Write your code to create data visualization #2 here:
+
+```
+
+Replace this text with your written analysis of data visualization #2 (no more than 150 words).
+
+
+
+## Data visualization 3
+
+```{r}
+# Write your code to create data visualization #3 here:
+
+```
+
+Replace this text with your written analysis of data visualization #3 (no more than 150 words).
+
+
+
+## Data visualization 4
+
+```{r}
+# Write your code to create data visualization #4 here:
+
+```
+
+Replace this text with your written analysis of data visualization #4 (no more than 150 words).
+
+
+
+# Q4: Summary
+
+Summarize the key takeaway from your analysis:  
+1. Describe at least one ethical concern we should consider when analyzing this data (no more than 100 words). As a reminder of our ethics framework for this course: (1) What assumptions and commitments informed the design of this dataset? (2) Who has had a say in data collection and analysis regarding this dataset? Who has been excluded? (3) What are the benefits and harms of this dataset, and how are they distributed amongst diverse social groups?
+2. Provide at least one policy implication for disabled people from the results of your data analysis (no more than 100 words). ^[Here is an example footnote to be used as a citation.]
+
+
+
+
+
