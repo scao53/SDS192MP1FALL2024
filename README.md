@@ -16,7 +16,7 @@ Read <strong>Transportation patterns demonstrate inequalities in community parti
 
 Conducted by the Federal Highway Administration, the [NHTS](https://nhts.ornl.gov/) is the authoritative source on the travel behavior of the American public. It is the only source of national data that allows one to analyze trends in personal and household travel. It includes daily non-commercial travel by all modes, including characteristics of the people traveling, their household, and their vehicles.
 
-I have constructed the travel dataset from the 2017 NHTS data. This dataset focuses on travel behaviors by length of disability and other demographic information. The NHTS asks respondents whether they have a medical condition "that makes it difficult to travel outside of home". Those who respond yes are defined to have a travel disability in this project.
+I have constructed the travel dataset from the 2017 NHTS data. This dataset focuses on travel behaviors by travel disability status and other demographic information. The NHTS asks respondents whether they have a medical condition "that makes it difficult to travel outside of home". Those who respond yes are defined to have a travel disability in this project.
 
 Before producing your analysis, you will study the [**NHTS_OUR_DATASET_CODEBOOK**](codebook/NHTS_OUR_DATASET_CODEBOOK.pdf) to select variables for your analysis. To help you make sense of the travel dataset, I will note that the unit of observation in this dataset is a person. You can review [the user guide](codebook/NHTS2017_UsersGuide_04232019_1.pdf) and [the original codebook](codebook/original_codebook.pdf) to understand the context of the data. 
 
