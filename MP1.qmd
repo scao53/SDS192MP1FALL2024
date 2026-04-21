@@ -21,7 +21,7 @@ library(tidyverse)
 
 ```{r, echo=FALSE}
 # Import the data here:
-travel <- read_csv("data/travel.csv")
+mobility_disability <- read_csv("data/mobility_disability.csv")
 ```
 
 # Q1: Peer Evaluation Google Form
