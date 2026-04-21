@@ -87,7 +87,7 @@ CODE STYLING (1)
 
 DATA ETHICS (1)
 
-* Have you included at least one ethical concern in your summary?
+* Have you included at least one ethical concern (e.g., underrepresentation of marginalized groups) in your summary?
 * Have you included what you have learned from the assigned disability inclusion readings in your report and at least one policy implication for disabled people from the results of your data analysis?
 
 ## Disclaimer
