@@ -79,7 +79,7 @@ AUTHORING MARKDOWN DOCUMENTS (1)
 * Does written text make a logical argument supported by your data analysis and communicate your findings effectively? From the report reader’s perspective, there should be no “superfluous” and non-informative output (e.g. instructions text). 
 * Are all accompanying write-ups are coherent and respect the word count limit?
 * Have you included citations (if any) as footnotes?
-* Have you cited AI-generated content if you get help with your programming tasks?
+* Have you included a atatement on the use of generative AI tools?
 
 CODE STYLING (1)
 
