@@ -1,6 +1,6 @@
 # Mini-Project 1
 
-*Due Monday 9/30 at 9pm.*
+This repo shows Version 2.0 of this project based on JEDI-STARS working group's feedback and my work in that group in Spring 2026. Version 1.0 of this project was a data visualization mini-project I created for my Introduction to Data Science course at Smith College in Fall 2024.
 
 ## Basic outline
 
