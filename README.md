@@ -92,3 +92,6 @@ DATA ETHICS (1)
 
 ## Disclaimer
 The disability and mobility dataset used in this project are a subset of the NHTS data and **unweighted**. The results of your analyses **cannot** be generalized beyond the samples collected in this dataset.
+
+## Citation
+U.S. Department of Transportation, Federal Highway Administration, 2017 National Household Travel Survey. URL: http://nhts.ornl.gov.
