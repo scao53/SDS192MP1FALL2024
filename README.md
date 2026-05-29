@@ -4,7 +4,7 @@ This repo shows Version 2.0 of this project based on JEDI-STARS working group's 
 
 ## Basic outline
 
-Your project will create **two non-redundant data visualizations** by **each person** using the mobility and disability dataset in the data folder. Each project needs to generate at least two types of graphs including bar graph, histogram, boxplot, and scatterplot, etc. You and your partner will then write up your findings in a short data-driven article of **no more than 900 words**. Your deliverable will be written in Quarto.
+Your project will create **two non-redundant data visualizations** by **each person** using the disability and mobility dataset in the data folder. Each project needs to generate at least two types of graphs including bar graph, histogram, boxplot, and scatterplot, etc. You and your partner will then write up your findings in a short data-driven article of **no more than 900 words**. Your deliverable will be written in Quarto.
 
 ## Background reading
 
