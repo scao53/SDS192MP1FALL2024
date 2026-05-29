@@ -91,4 +91,4 @@ DATA ETHICS (1)
 * Have you included what you have learned from the assigned disability inclusion readings in your report and at least one policy implication for disabled people from the results of your data analysis?
 
 ## Disclaimer
-The mobility and disability dataset used in this project are a subset of the NHTS data and **unweighted**. The results of your analyses **cannot** be generalized beyond the samples collected in this dataset.
+The disability and mobility dataset used in this project are a subset of the NHTS data and **unweighted**. The results of your analyses **cannot** be generalized beyond the samples collected in this dataset.
